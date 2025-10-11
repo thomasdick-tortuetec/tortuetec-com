@@ -1,6 +1,6 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'tortuetec GmbH'
 theme: "clarity"
 frontmatter:
     format: yaml
@@ -8,3 +8,13 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: imprint
+      name: Imprint
+      url: /imprint/
+      weight: 20
