@@ -4,3 +4,7 @@ title: 'My New Hugo Site'
 theme: "clarity"
 frontmatter:
     format: yaml
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
