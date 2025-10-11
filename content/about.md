@@ -4,15 +4,15 @@ draft: true
 title: 'About'
 ---
 
-## Contents
+## Table Of Contents
 
-- [What we do](#what-we-do)
+- [Focus](#focus)
 - [Customers](#customers)
 - [Team Members](#team-members)
 - [Partners](#partners)
 - [Grants and Financial Support](#grants-and-financial-support)
 
-## What we do
+## Focus
 
 Since 2009, *tortuetec has solved R&D problems related to materials science* in engineering and production.
 
