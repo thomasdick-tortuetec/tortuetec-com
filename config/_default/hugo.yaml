@@ -15,9 +15,9 @@ menu:
   main:
     - identifier: about
       name: About
-      url: "/about/#top"
+      url: "/about/"
       weight: 10
     - identifier: imprint
       name: Imprint
-      url: "/imprint/#top"
+      url: "/imprint/"
       weight: 20
