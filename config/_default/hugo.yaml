@@ -2,6 +2,7 @@ baseURL: 'https://example.org/'
 languageCode: 'en-us'
 title: 'tortuetec GmbH'
 theme: "clarity"
+enforceLightMode: true
 frontmatter:
     format: yaml
 markup:
