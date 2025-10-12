@@ -20,7 +20,7 @@ sidebar: false
 
 ## Focus
 
-Since 2009, *tortuetec has solved R&D problems related to materials science* in engineering and production.
+Since 2009, tortuetec has solved R&D problems related to materials science in engineering and production.
 
 We have mainly worked with R&D and engineering departments of industrial corporations. Typical steps in collaboration have included:
 
@@ -109,10 +109,10 @@ The Austrian laboratory was subsequently integrated into tortuetec, which contin
 
 ### <a href="https://www.transvalor.com/en/z-set" target="_blank" rel="noopener">Transvalor (Z-set Software Team) ↗︎</a>
 
-The Z-set team — and especially <a href="https://www.linkedin.com/in/nikolay-osipov-8123292a/" target="_blank" rel="noopener">Nikolai Osipov ↗︎</a> — collaborated with tortuetec from the very beginning to present Z-set software to Austrian and German audiences.  
-*We gave joint conference talks and attended industry expositions, sharing a dedicated Z-set booth.*  
+The Z-set team — and especially <a href="https://www.linkedin.com/in/nikolay-osipov-8123292a/" target="_blank" rel="noopener">Nikolai Osipov ↗︎</a> — collaborated with tortuetec from the very beginning to present Z-set software to Austrian and German audiences.
+We gave joint conference talks and attended industry expositions, sharing a dedicated Z-set booth.
 tortuetec used Z-set commercially for tribo-simulation, further developing algorithms that Thomas had initiated during his PhD thesis at Mines ParisTech.
 
 ## Grants and Financial Support
-
-[The Vienna Business Agency](https://wirtschaftsagentur.at/) co-funded the “Men of Action” project in 2009 and the Polymer Testing Lab in 2013.
+<a href="https://wirtschaftsagentur.at/" target="_blank" rel="noopener">The Vienna Business Agency ↗︎</a>
+co-funded the “Men of Action” project in 2009 and the Polymer Testing Lab in 2013.
