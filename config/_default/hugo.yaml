@@ -3,6 +3,8 @@ languageCode: 'en-us'
 title: 'tortuetec GmbH'
 theme: "clarity"
 enforceLightMode: true
+params:
+  logo: "/tortue-logo.png"
 frontmatter:
     format: yaml
 markup:
