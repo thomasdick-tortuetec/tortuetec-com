@@ -1,13 +1,19 @@
 ---
 date: '2025-10-11T21:04:37+02:00'
-draft: true
 title: 'Imprint'
+draft: false
+
+showShare: false
+showDate: false
+showLastmod: false
+showReadTime: false
+sidebar: false
 ---
 
-# [tortuetec GmbH](https://tortuetec.com/)
+[tortuetec GmbH](https://tortuetec.com/)  
 <a href="https://www.wko.at/wien/information-consulting/ingenieurbueros/start" target="_blank" rel="noopener">
-Ingenieurbüro für Werkstoffwissenschaften ↗︎
-</a> (Engineering Office for Materials Science)
+Ingenieurbüro für Werkstoffwissenschaften ↗︎</a><br>
+(Engineering Office for Materials Science)
 
 **Address:** Theresiengasse 8/6, 1180 Vienna, Austria  
 **Email:** <a href="mailto:office@tortuetec.com">office@tortuetec.com</a>  
