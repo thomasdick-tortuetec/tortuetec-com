@@ -1,7 +1,9 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
 title: 'tortuetec GmbH'
-theme: "clarity"
+module:
+  imports:
+    - path: github.com/chipzoller/hugo-clarity
 enforceLightMode: true
 params:
   logo: "/tortue-logo.png"
