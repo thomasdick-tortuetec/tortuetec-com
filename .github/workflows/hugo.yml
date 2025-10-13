@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - master   # oder main – passe an, falls dein Branch anders heißt
+      - master   # oder main – je nach Repo
   workflow_dispatch:
 
 permissions:
@@ -38,6 +38,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+          name: github-pages   # 👈 entscheidend!
 
   deploy:
     environment:
