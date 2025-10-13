@@ -6,7 +6,7 @@ module:
     - path: github.com/chipzoller/hugo-clarity
 enforceLightMode: true
 params:
-  logo: "tortue-logo.png"
+  logo: "/tortue-logo.png"
 frontmatter:
     format: yaml
 markup:
