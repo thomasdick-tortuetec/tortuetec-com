@@ -4,8 +4,8 @@ title: 'tortuetec GmbH'
 module:
   imports:
     - path: github.com/chipzoller/hugo-clarity
-enforceLightMode: true
 params:
+  enforceLightMode: true
   logo: "tortue-logo.png"
 frontmatter:
     format: yaml
